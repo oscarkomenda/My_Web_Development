@@ -1,0 +1,63 @@
+body {
+    color: aqua;
+    text-align: center;
+    
+}
+
+.well {
+    
+    background-color: rgba(0, 0, 0, 0.8);
+    margin-bottom: 80px;
+}
+    
+    
+    
+}
+
+img {
+    
+}
+
+
+ul {
+    list-style-type: none;
+    
+}
+
+
+li {
+    font-size: 20px;
+    color: #ffc400
+}
+
+strong {
+    color: aliceblue
+}
+
+p {
+    font-size: 20px;
+}
+
+#secondp {
+    
+    color: #33ea2c
+}
+
+
+#legacyof {
+    color: #1566ff;
+}
+
+#love {
+    margin-top: 20px;
+}
+
+.linkz {
+    color: #ff3100;
+}
+
+.linkz h1 {
+    color: white
+}
+
+

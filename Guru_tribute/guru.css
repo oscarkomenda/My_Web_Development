@@ -1,0 +1,51 @@
+body {
+  background-color: #505050;
+  text-align: center;
+}
+
+.gangStarr {
+  text-align: center;
+  font-family: awesome;
+
+}
+
+.solo {
+  text-align: center;
+  font-family: awesome;
+
+}
+
+ul {
+  list-style-type: none;
+}
+
+p {
+  margin: 10px;
+  font-size: 20px;
+  color: white;
+
+}
+.well {
+  margin: 29px;
+}
+.coloro {
+  color: orange;
+}
+.dob {
+  color: orange;
+}
+.yearsLeft {
+  text-align: left;
+}
+.yearsRight {
+  text-align: left;
+}
+
+h1 {
+  font-family: arial;
+  color: white;
+}
+
+.quote {
+  margin: 30px;
+}
